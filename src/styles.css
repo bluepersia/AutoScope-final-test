@@ -9,6 +9,7 @@
 
 .test-3 {
   --scope-hash: d802cd; /* Collision-prevention ID */
+  color:blue;
 }
 
 .test-3--mod {
