@@ -3,3 +3,26 @@
 
 .test-2 {
 }
+
+.other-content-a {
+}
+
+.test-3 {
+  --scope-hash: d802cd; /* Collision-prevention ID */
+}
+
+.test-3--mod {
+}
+
+.test-3__item {
+}
+
+.test-3__obj {
+}
+
+.test-3__inner > .test-3__item .test-3__text {
+  color: blue;
+}
+
+.other-content-b {
+}
